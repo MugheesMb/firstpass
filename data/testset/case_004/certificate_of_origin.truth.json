@@ -1,0 +1,85 @@
+{
+ "doc_type": "certificate_of_origin",
+ "data": {
+  "exporter": "Kasur Leather Works (Pvt) Ltd",
+  "consignee": "Lion City Provisions Pte Ltd",
+  "country_of_origin": "Pakistan",
+  "goods_description": "Leather gloves",
+  "issue_date": "20 Oct 2026",
+  "issuer": "Kasur Chamber of Commerce & Industry",
+  "evidence": [
+   {
+    "field": "exporter",
+    "page": 1,
+    "text": "Kasur Leather Works (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     577
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "Lion City Provisions Pte Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     557
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Leather gloves",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     467
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     424
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "20 Oct 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     449
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Kasur Chamber of Commerce & Industry",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     651
+    ]
+   }
+  ]
+ }
+}

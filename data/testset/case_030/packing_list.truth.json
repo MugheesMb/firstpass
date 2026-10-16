@@ -1,0 +1,85 @@
+{
+ "doc_type": "packing_list",
+ "data": {
+  "packages_count": "5,240 bags",
+  "quantity": "131",
+  "quantity_unit": "MT",
+  "gross_weight_kg": "136,240.0 kg",
+  "net_weight_kg": "131,000.0 kg",
+  "goods_description": "Basmati rice, as per invoice INV-73559",
+  "evidence": [
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Basmati rice, as per invoice INV-73559",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     638
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "5,240 bags",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     441
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "131",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     389
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     385
+    ]
+   },
+   {
+    "field": "net_weight_kg",
+    "page": 1,
+    "text": "131,000.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     455
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "136,240.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     455
+    ]
+   }
+  ]
+ }
+}

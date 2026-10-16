@@ -1,0 +1,190 @@
+{
+ "doc_type": "bill_of_lading",
+ "data": {
+  "bl_number": "BL857846",
+  "shipper": "Saigon Nut Traders JSC",
+  "consignee": "To order of Gulf Commercial Bank PJSC",
+  "notify_party": "Gulf Pantry Trading LLC",
+  "vessel": "MV Straits Voyager",
+  "port_of_loading": "Ho Chi Minh City, Vietnam",
+  "port_of_discharge": "Jebel Ali, UAE",
+  "issue_date": "25/10/2026",
+  "on_board_date": "25/10/2026",
+  "on_board_notation": true,
+  "clauses": [],
+  "packages_count": "2,000 bags",
+  "gross_weight_kg": "53,560.0 kg",
+  "goods_description": "Cashew kernels",
+  "freight": "Freight prepaid",
+  "evidence": [
+   {
+    "field": "bl_number",
+    "page": 1,
+    "text": "BL857846",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     435
+    ]
+   },
+   {
+    "field": "shipper",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     535
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "To order of Gulf Commercial Bank PJSC",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     650
+    ]
+   },
+   {
+    "field": "notify_party",
+    "page": 1,
+    "text": "Gulf Pantry Trading LLC",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     534
+    ]
+   },
+   {
+    "field": "vessel",
+    "page": 1,
+    "text": "MV Straits Voyager",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     500
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Ho Chi Minh City, Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     549
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Jebel Ali, UAE",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     464
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cashew kernels",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     476
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "2,000 bags",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     441
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "53,560.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     446
+    ]
+   },
+   {
+    "field": "freight",
+    "page": 1,
+    "text": "Freight prepaid",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     470
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "25/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     442
+    ]
+   },
+   {
+    "field": "on_board_date",
+    "page": 1,
+    "text": "25/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     442
+    ]
+   },
+   {
+    "field": "on_board_notation",
+    "page": 1,
+    "text": "SHIPPED ON BOARD",
+    "confidence": 1.0,
+    "box_2d": [
+     776,
+     665,
+     807,
+     895
+    ]
+   }
+  ]
+ }
+}

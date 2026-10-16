@@ -1,0 +1,14 @@
+[
+ {
+  "doc_type": "bill_of_lading",
+  "file": "corrected/bill_of_lading.pdf",
+  "truth": "corrected/bill_of_lading.truth.json",
+  "fixes": "Carrier corrected the port of loading and the number of packages"
+ },
+ {
+  "doc_type": "insurance_certificate",
+  "file": "corrected/insurance_certificate.pdf",
+  "truth": "corrected/insurance_certificate.truth.json",
+  "fixes": "Insurer reissued the certificate dated before shipment"
+ }
+]

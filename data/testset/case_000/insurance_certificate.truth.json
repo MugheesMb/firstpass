@@ -1,0 +1,72 @@
+{
+ "doc_type": "insurance_certificate",
+ "data": {
+  "issue_date": "24/10/2026",
+  "currency": "EUR",
+  "insured_amount": "EUR 249,205.00",
+  "risks_covered": "Institute Cargo Clauses (A)",
+  "goods_description": "Basmati rice",
+  "evidence": [
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "24/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Basmati rice",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     450
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "EUR",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     396
+    ]
+   },
+   {
+    "field": "insured_amount",
+    "page": 1,
+    "text": "EUR 249,205.00",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     480
+    ]
+   },
+   {
+    "field": "risks_covered",
+    "page": 1,
+    "text": "Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     554
+    ]
+   }
+  ]
+ }
+}

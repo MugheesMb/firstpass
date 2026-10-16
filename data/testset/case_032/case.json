@@ -1,0 +1,48 @@
+{
+ "case_id": "case_032",
+ "company_name": "Saigon Nut Traders JSC",
+ "goods_ready_date": "2026-10-16",
+ "presentation_date": "2026-11-04",
+ "goods": "cashew",
+ "incoterm": "CFR Jebel Ali",
+ "currency": "USD",
+ "planted_document_errors": [
+  "weight_mismatch"
+ ],
+ "planted_lc_errors": [
+  "expiry_abroad"
+ ],
+ "expected_document_rules": [
+  "R10"
+ ],
+ "expected_lc_rules": [
+  "A04"
+ ],
+ "files": [
+  {
+   "file": "lc.pdf",
+   "doc_type": "letter_of_credit",
+   "truth": "lc.truth.json"
+  },
+  {
+   "file": "commercial_invoice.pdf",
+   "doc_type": "commercial_invoice",
+   "truth": "commercial_invoice.truth.json"
+  },
+  {
+   "file": "bill_of_lading.pdf",
+   "doc_type": "bill_of_lading",
+   "truth": "bill_of_lading.truth.json"
+  },
+  {
+   "file": "packing_list.pdf",
+   "doc_type": "packing_list",
+   "truth": "packing_list.truth.json"
+  },
+  {
+   "file": "certificate_of_origin.pdf",
+   "doc_type": "certificate_of_origin",
+   "truth": "certificate_of_origin.truth.json"
+  }
+ ]
+}

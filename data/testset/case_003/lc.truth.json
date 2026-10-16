@@ -1,0 +1,318 @@
+{
+ "doc_type": "letter_of_credit",
+ "data": {
+  "lc_number": "HAN/LC/26/3144",
+  "issue_date": "260903",
+  "expiry_date": "261118",
+  "expiry_place": "Chittagong, Bangladesh",
+  "applicant": "Hanse Sport GmbH",
+  "applicant_country": "Germany",
+  "beneficiary": "Meghna Knit Composite Ltd",
+  "beneficiary_country": "Bangladesh",
+  "issuing_bank": "Hanseatic Trade Bank AG",
+  "currency": "USD",
+  "amount": "USD 134,070.00",
+  "amount_tolerance_pct": null,
+  "latest_shipment_date": "261021",
+  "presentation_days": "21 days after date of shipment",
+  "port_of_loading": "Chittagong, Bangladesh",
+  "port_of_discharge": "Hamburg, Germany",
+  "partial_shipments": "prohibited",
+  "transhipment": "allowed",
+  "incoterm": "CIF Hamburg",
+  "goods_description": "Men's 100% cotton knitted polo shirts, assorted colours",
+  "quantity": "32,700",
+  "quantity_unit": "pcs",
+  "country_of_origin": "Bangladesh",
+  "bl_consignee_required": "To order of Hanseatic Trade Bank AG",
+  "documents_required": [
+   "Signed commercial invoice in 3 originals",
+   "Full set of clean on board ocean bills of lading made out to order of Hanseatic Trade Bank AG, marked freight prepaid, notify applicant",
+   "Packing list in 2 copies",
+   "Certificate of origin issued by the Chamber of Commerce in Bangladesh",
+   "Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)"
+  ],
+  "additional_conditions": [
+   "All documents must show this credit number.",
+   "Third party documents acceptable except commercial invoice."
+  ],
+  "evidence": [
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "HAN/LC/26/3144",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     483
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "260903",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     416
+    ]
+   },
+   {
+    "field": "expiry_date",
+    "page": 1,
+    "text": "261118",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     416
+    ]
+   },
+   {
+    "field": "expiry_place",
+    "page": 1,
+    "text": "Chittagong, Bangladesh",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     533
+    ]
+   },
+   {
+    "field": "applicant",
+    "page": 1,
+    "text": "Hanse Sport GmbH",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     502
+    ]
+   },
+   {
+    "field": "applicant_country",
+    "page": 1,
+    "text": "Germany",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     428
+    ]
+   },
+   {
+    "field": "beneficiary",
+    "page": 1,
+    "text": "Meghna Knit Composite Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     559
+    ]
+   },
+   {
+    "field": "beneficiary_country",
+    "page": 1,
+    "text": "Bangladesh",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     447
+    ]
+   },
+   {
+    "field": "amount",
+    "page": 1,
+    "text": "USD 134,070.00",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     480
+    ]
+   },
+   {
+    "field": "partial_shipments",
+    "page": 1,
+    "text": "prohibited",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     432
+    ]
+   },
+   {
+    "field": "transhipment",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     416
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Chittagong, Bangladesh",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     533
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Hamburg, Germany",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     502
+    ]
+   },
+   {
+    "field": "latest_shipment_date",
+    "page": 1,
+    "text": "261021",
+    "confidence": 1.0,
+    "box_2d": [
+     388,
+     359,
+     401,
+     416
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Men's 100% cotton knitted polo shirts, assorted colours",
+    "confidence": 1.0,
+    "box_2d": [
+     408,
+     359,
+     421,
+     752
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "32,700",
+    "confidence": 1.0,
+    "box_2d": [
+     428,
+     359,
+     441,
+     411
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     448,
+     359,
+     461,
+     387
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CIF Hamburg",
+    "confidence": 1.0,
+    "box_2d": [
+     469,
+     359,
+     482,
+     458
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Bangladesh",
+    "confidence": 1.0,
+    "box_2d": [
+     489,
+     359,
+     502,
+     447
+    ]
+   },
+   {
+    "field": "documents_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Hanseatic Trade Bank AG, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Bangladesh | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     868
+    ]
+   },
+   {
+    "field": "additional_conditions",
+    "page": 1,
+    "text": "All documents must show this credit number. | Third party documents acceptable except commercial invoice.",
+    "confidence": 1.0,
+    "box_2d": [
+     635,
+     115,
+     662,
+     549
+    ]
+   },
+   {
+    "field": "presentation_days",
+    "page": 1,
+    "text": "21 days after date of shipment",
+    "confidence": 1.0,
+    "box_2d": [
+     671,
+     359,
+     683,
+     577
+    ]
+   },
+   {
+    "field": "bl_consignee_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Hanseatic Trade Bank AG, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Bangladesh | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     868
+    ]
+   }
+  ]
+ }
+}

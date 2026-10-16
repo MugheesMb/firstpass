@@ -1,0 +1,72 @@
+{
+ "doc_type": "insurance_certificate",
+ "data": {
+  "issue_date": "October 16, 2026",
+  "currency": "USD",
+  "insured_amount": "USD 147,477.00",
+  "risks_covered": "Institute Cargo Clauses (A)",
+  "goods_description": "Cotton polo shirts",
+  "evidence": [
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "October 16, 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     486
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cotton polo shirts",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     487
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     396
+    ]
+   },
+   {
+    "field": "insured_amount",
+    "page": 1,
+    "text": "USD 147,477.00",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     480
+    ]
+   },
+   {
+    "field": "risks_covered",
+    "page": 1,
+    "text": "Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     554
+    ]
+   }
+  ]
+ }
+}

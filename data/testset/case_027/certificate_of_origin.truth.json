@@ -1,0 +1,85 @@
+{
+ "doc_type": "certificate_of_origin",
+ "data": {
+  "exporter": "Saigon Nut Traders JSC",
+  "consignee": "Maple Leaf Outfitters Inc",
+  "country_of_origin": "Vietnam",
+  "goods_description": "Cashew kernels",
+  "issue_date": "27/10/2026",
+  "issuer": "Ho Chi Minh City Chamber of Commerce & Industry",
+  "evidence": [
+   {
+    "field": "exporter",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     535
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "Maple Leaf Outfitters Inc",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     536
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cashew kernels",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     476
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     421
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "27/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Ho Chi Minh City Chamber of Commerce & Industry",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     729
+    ]
+   }
+  ]
+ }
+}

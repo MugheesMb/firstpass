@@ -1,0 +1,317 @@
+{
+ "doc_type": "letter_of_credit",
+ "data": {
+  "lc_number": "HAN/LC/26/5804",
+  "issue_date": "260905",
+  "expiry_date": "261129",
+  "expiry_place": "Ho Chi Minh City, Vietnam",
+  "applicant": "Hanse Sport GmbH",
+  "applicant_country": "Germany",
+  "beneficiary": "Saigon Nut Traders JSC",
+  "beneficiary_country": "Vietnam",
+  "issuing_bank": "Hanseatic Trade Bank AG",
+  "currency": "USD",
+  "amount": "USD 172,800.00",
+  "amount_tolerance_pct": null,
+  "latest_shipment_date": "261104",
+  "presentation_days": "21 days after date of shipment",
+  "port_of_loading": "Ho Chi Minh City, Vietnam",
+  "port_of_discharge": "Hamburg, Germany",
+  "partial_shipments": "allowed",
+  "transhipment": "allowed",
+  "incoterm": "CFR Hamburg",
+  "goods_description": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+  "quantity": "24",
+  "quantity_unit": "MT",
+  "country_of_origin": "Vietnam",
+  "bl_consignee_required": "To order of Hanseatic Trade Bank AG",
+  "documents_required": [
+   "Signed commercial invoice in 3 originals",
+   "Full set of clean on board ocean bills of lading made out to order of Hanseatic Trade Bank AG, marked freight prepaid, notify applicant",
+   "Packing list in 2 copies",
+   "Certificate of origin issued by the Chamber of Commerce in Vietnam"
+  ],
+  "additional_conditions": [
+   "All documents must show this credit number.",
+   "Third party documents acceptable except commercial invoice."
+  ],
+  "evidence": [
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "HAN/LC/26/5804",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     483
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "260905",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     416
+    ]
+   },
+   {
+    "field": "expiry_date",
+    "page": 1,
+    "text": "261129",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     416
+    ]
+   },
+   {
+    "field": "expiry_place",
+    "page": 1,
+    "text": "Ho Chi Minh City, Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     549
+    ]
+   },
+   {
+    "field": "applicant",
+    "page": 1,
+    "text": "Hanse Sport GmbH",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     502
+    ]
+   },
+   {
+    "field": "applicant_country",
+    "page": 1,
+    "text": "Germany",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     428
+    ]
+   },
+   {
+    "field": "beneficiary",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     535
+    ]
+   },
+   {
+    "field": "beneficiary_country",
+    "page": 1,
+    "text": "Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     421
+    ]
+   },
+   {
+    "field": "amount",
+    "page": 1,
+    "text": "USD 172,800.00",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     480
+    ]
+   },
+   {
+    "field": "partial_shipments",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     416
+    ]
+   },
+   {
+    "field": "transhipment",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     416
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Ho Chi Minh City, Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     549
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Hamburg, Germany",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     502
+    ]
+   },
+   {
+    "field": "latest_shipment_date",
+    "page": 1,
+    "text": "261104",
+    "confidence": 1.0,
+    "box_2d": [
+     388,
+     359,
+     401,
+     416
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+    "confidence": 1.0,
+    "box_2d": [
+     408,
+     359,
+     421,
+     789
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "24",
+    "confidence": 1.0,
+    "box_2d": [
+     428,
+     359,
+     441,
+     380
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     448,
+     359,
+     461,
+     385
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Hamburg",
+    "confidence": 1.0,
+    "box_2d": [
+     469,
+     359,
+     482,
+     465
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     489,
+     359,
+     502,
+     421
+    ]
+   },
+   {
+    "field": "documents_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Hanseatic Trade Bank AG, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     595,
+     868
+    ]
+   },
+   {
+    "field": "additional_conditions",
+    "page": 1,
+    "text": "All documents must show this credit number. | Third party documents acceptable except commercial invoice.",
+    "confidence": 1.0,
+    "box_2d": [
+     621,
+     115,
+     648,
+     549
+    ]
+   },
+   {
+    "field": "presentation_days",
+    "page": 1,
+    "text": "21 days after date of shipment",
+    "confidence": 1.0,
+    "box_2d": [
+     656,
+     359,
+     669,
+     577
+    ]
+   },
+   {
+    "field": "bl_consignee_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Hanseatic Trade Bank AG, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     595,
+     868
+    ]
+   }
+  ]
+ }
+}

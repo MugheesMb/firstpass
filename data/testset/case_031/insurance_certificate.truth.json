@@ -1,0 +1,72 @@
+{
+ "doc_type": "insurance_certificate",
+ "data": {
+  "issue_date": "02/11/2026",
+  "currency": "USD",
+  "insured_amount": "USD 51,568.00",
+  "risks_covered": "Institute Cargo Clauses (A)",
+  "goods_description": "Cotton bath towels",
+  "evidence": [
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "02/11/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cotton bath towels",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     495
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     396
+    ]
+   },
+   {
+    "field": "insured_amount",
+    "page": 1,
+    "text": "USD 51,568.00",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     471
+    ]
+   },
+   {
+    "field": "risks_covered",
+    "page": 1,
+    "text": "Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     554
+    ]
+   }
+  ]
+ }
+}

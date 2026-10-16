@@ -1,0 +1,50 @@
+{
+ "case_id": "case_024",
+ "company_name": "Lahore Grain Exports Ltd",
+ "goods_ready_date": "2026-10-24",
+ "presentation_date": "2026-12-04",
+ "goods": "rice",
+ "incoterm": "CFR Jebel Ali",
+ "currency": "USD",
+ "planted_document_errors": [
+  "late_presentation",
+  "late_shipment"
+ ],
+ "planted_lc_errors": [
+  "soft_clause"
+ ],
+ "expected_document_rules": [
+  "R02",
+  "R03"
+ ],
+ "expected_lc_rules": [
+  "A05"
+ ],
+ "files": [
+  {
+   "file": "lc.pdf",
+   "doc_type": "letter_of_credit",
+   "truth": "lc.truth.json"
+  },
+  {
+   "file": "commercial_invoice.pdf",
+   "doc_type": "commercial_invoice",
+   "truth": "commercial_invoice.truth.json"
+  },
+  {
+   "file": "bill_of_lading.pdf",
+   "doc_type": "bill_of_lading",
+   "truth": "bill_of_lading.truth.json"
+  },
+  {
+   "file": "packing_list.pdf",
+   "doc_type": "packing_list",
+   "truth": "packing_list.truth.json"
+  },
+  {
+   "file": "certificate_of_origin.pdf",
+   "doc_type": "certificate_of_origin",
+   "truth": "certificate_of_origin.truth.json"
+  }
+ ]
+}

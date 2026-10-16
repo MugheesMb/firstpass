@@ -1,0 +1,85 @@
+{
+ "doc_type": "packing_list",
+ "data": {
+  "packages_count": "456 cartons",
+  "quantity": "54,720",
+  "quantity_unit": "pairs",
+  "gross_weight_kg": "8,536.3 kg",
+  "net_weight_kg": "8,208.0 kg",
+  "goods_description": "Leather gloves, as per invoice INV-96577",
+  "evidence": [
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Leather gloves, as per invoice INV-96577",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     655
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "456 cartons",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     446
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "54,720",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     411
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pairs",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     397
+    ]
+   },
+   {
+    "field": "net_weight_kg",
+    "page": 1,
+    "text": "8,208.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     437
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "8,536.3 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     437
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "doc_type": "certificate_of_origin",
+ "data": {
+  "exporter": "Lahore Grain Exports Ltd",
+  "consignee": "Hanse Sport GmbH",
+  "country_of_origin": "Pakistan",
+  "goods_description": "Basmati rice",
+  "issue_date": "24/10/2026",
+  "issuer": "Lahore Chamber of Commerce & Industry",
+  "evidence": [
+   {
+    "field": "exporter",
+    "page": 1,
+    "text": "Lahore Grain Exports Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     541
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "Hanse Sport GmbH",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     502
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Basmati rice",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     450
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     424
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "24/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Lahore Chamber of Commerce & Industry",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     659
+    ]
+   }
+  ]
+ }
+}

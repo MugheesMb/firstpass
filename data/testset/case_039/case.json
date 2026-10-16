@@ -1,0 +1,53 @@
+{
+ "case_id": "case_039",
+ "company_name": "Indus Home Textiles (Pvt) Ltd",
+ "goods_ready_date": "2026-10-02",
+ "presentation_date": "2026-10-21",
+ "goods": "towels",
+ "incoterm": "FOB Karachi",
+ "currency": "USD",
+ "planted_document_errors": [
+  "port_pol"
+ ],
+ "planted_lc_errors": [
+  "insurance_fob"
+ ],
+ "expected_document_rules": [
+  "R11"
+ ],
+ "expected_lc_rules": [
+  "A06"
+ ],
+ "files": [
+  {
+   "file": "lc.pdf",
+   "doc_type": "letter_of_credit",
+   "truth": "lc.truth.json"
+  },
+  {
+   "file": "commercial_invoice.pdf",
+   "doc_type": "commercial_invoice",
+   "truth": "commercial_invoice.truth.json"
+  },
+  {
+   "file": "bill_of_lading.pdf",
+   "doc_type": "bill_of_lading",
+   "truth": "bill_of_lading.truth.json"
+  },
+  {
+   "file": "packing_list.pdf",
+   "doc_type": "packing_list",
+   "truth": "packing_list.truth.json"
+  },
+  {
+   "file": "certificate_of_origin.pdf",
+   "doc_type": "certificate_of_origin",
+   "truth": "certificate_of_origin.truth.json"
+  },
+  {
+   "file": "insurance_certificate.pdf",
+   "doc_type": "insurance_certificate",
+   "truth": "insurance_certificate.truth.json"
+  }
+ ]
+}

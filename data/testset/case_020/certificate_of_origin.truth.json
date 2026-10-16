@@ -1,0 +1,85 @@
+{
+ "doc_type": "certificate_of_origin",
+ "data": {
+  "exporter": "Indus Home Textiles (Pvt) Ltd",
+  "consignee": "Nordhaven Retail B.V.",
+  "country_of_origin": "Pakistan",
+  "goods_description": "Cotton bath towels",
+  "issue_date": "13 Nov 2026",
+  "issuer": "Faisalabad Chamber of Commerce & Industry",
+  "evidence": [
+   {
+    "field": "exporter",
+    "page": 1,
+    "text": "Indus Home Textiles (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     573
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "Nordhaven Retail B.V.",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     520
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cotton bath towels",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     495
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     424
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "13 Nov 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     453
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Faisalabad Chamber of Commerce & Industry",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     687
+    ]
+   }
+  ]
+ }
+}

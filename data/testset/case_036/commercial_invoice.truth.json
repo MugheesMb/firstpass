@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-68164",
+  "invoice_date": "31/10/2026",
+  "issuer": "Sialkot Pro Sports (Pvt) Ltd",
+  "made_out_to": "Maple Leaf Outfitters Inc",
+  "lc_number": "PAC/LC/26/2718",
+  "currency": "EUR",
+  "total_amount": "EUR 54,612.50",
+  "quantity": "6,425",
+  "quantity_unit": "pcs",
+  "goods_description": "Machine-stitched PU leather footballs, size 5, FIFA Quality",
+  "incoterm": "CFR Vancouver",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-68164",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "31/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Sialkot Pro Sports (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     555
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Maple Leaf Outfitters Inc",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     536
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "PAC/LC/26/2718",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     482
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Vancouver",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     476
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Machine-stitched PU leather footballs, size 5, FIFA Quality",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     775
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "6,425",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     402
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     387
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "EUR",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "EUR 54,612.50",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     489
+    ]
+   }
+  ]
+ }
+}

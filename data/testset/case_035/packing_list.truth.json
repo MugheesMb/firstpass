@@ -1,0 +1,85 @@
+{
+ "doc_type": "packing_list",
+ "data": {
+  "packages_count": "490 cartons",
+  "quantity": "24,500",
+  "quantity_unit": "pcs",
+  "gross_weight_kg": "15,797.6 kg",
+  "net_weight_kg": "15,190.0 kg",
+  "goods_description": "Cotton bath towels, as per invoice INV-44090",
+  "evidence": [
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cotton bath towels, as per invoice INV-44090",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     683
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "490 cartons",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     446
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "24,500",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     411
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     387
+    ]
+   },
+   {
+    "field": "net_weight_kg",
+    "page": 1,
+    "text": "15,190.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     446
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "15,797.6 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     446
+    ]
+   }
+  ]
+ }
+}

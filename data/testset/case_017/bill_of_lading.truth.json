@@ -1,0 +1,190 @@
+{
+ "doc_type": "bill_of_lading",
+ "data": {
+  "bl_number": "BL253490",
+  "shipper": "Sialkot Pro Sports (Pvt) Ltd",
+  "consignee": "To order of Straits Merchant Bank Ltd",
+  "notify_party": "Lion City Provisions Pte Ltd",
+  "vessel": "MSC Arabian Pearl (fictional)",
+  "port_of_loading": "Karachi, Pakistan",
+  "port_of_discharge": "Singapore",
+  "issue_date": "November 14, 2026",
+  "on_board_date": "November 14, 2026",
+  "on_board_notation": true,
+  "clauses": [],
+  "packages_count": "274 cartons",
+  "gross_weight_kg": "3,205.8 kg",
+  "goods_description": "Footballs",
+  "freight": "Freight prepaid",
+  "evidence": [
+   {
+    "field": "bl_number",
+    "page": 1,
+    "text": "BL253490",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     435
+    ]
+   },
+   {
+    "field": "shipper",
+    "page": 1,
+    "text": "Sialkot Pro Sports (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     555
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "To order of Straits Merchant Bank Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     628
+    ]
+   },
+   {
+    "field": "notify_party",
+    "page": 1,
+    "text": "Lion City Provisions Pte Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     557
+    ]
+   },
+   {
+    "field": "vessel",
+    "page": 1,
+    "text": "MSC Arabian Pearl (fictional)",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     568
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     487
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Singapore",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     435
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Footballs",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     427
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "274 cartons",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     446
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "3,205.8 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     437
+    ]
+   },
+   {
+    "field": "freight",
+    "page": 1,
+    "text": "Freight prepaid",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     470
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "November 14, 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     503
+    ]
+   },
+   {
+    "field": "on_board_date",
+    "page": 1,
+    "text": "November 14, 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     503
+    ]
+   },
+   {
+    "field": "on_board_notation",
+    "page": 1,
+    "text": "SHIPPED ON BOARD",
+    "confidence": 1.0,
+    "box_2d": [
+     776,
+     665,
+     807,
+     895
+    ]
+   }
+  ]
+ }
+}

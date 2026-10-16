@@ -1,0 +1,190 @@
+{
+ "doc_type": "bill_of_lading",
+ "data": {
+  "bl_number": "BL737223",
+  "shipper": "Meghna Knit Composite Ltd",
+  "consignee": "To order of Rotterdam Mercantile Bank N.V.",
+  "notify_party": "Nordhaven Retail B.V.",
+  "vessel": "MV Bay of Bengal Trader",
+  "port_of_loading": "Chittagong, Bangladesh",
+  "port_of_discharge": "Rotterdam, Netherlands",
+  "issue_date": "November 08, 2026",
+  "on_board_date": "November 08, 2026",
+  "on_board_notation": true,
+  "clauses": [],
+  "packages_count": "632 cartons",
+  "gross_weight_kg": "8,676.1 kg",
+  "goods_description": "Cotton polo shirts",
+  "freight": "Freight prepaid",
+  "evidence": [
+   {
+    "field": "bl_number",
+    "page": 1,
+    "text": "BL737223",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     435
+    ]
+   },
+   {
+    "field": "shipper",
+    "page": 1,
+    "text": "Meghna Knit Composite Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     559
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "To order of Rotterdam Mercantile Bank N.V.",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     674
+    ]
+   },
+   {
+    "field": "notify_party",
+    "page": 1,
+    "text": "Nordhaven Retail B.V.",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     520
+    ]
+   },
+   {
+    "field": "vessel",
+    "page": 1,
+    "text": "MV Bay of Bengal Trader",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     542
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Chittagong, Bangladesh",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     533
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Rotterdam, Netherlands",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     532
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cotton polo shirts",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     487
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "632 cartons",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     446
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "8,676.1 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     437
+    ]
+   },
+   {
+    "field": "freight",
+    "page": 1,
+    "text": "Freight prepaid",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     470
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "November 08, 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     503
+    ]
+   },
+   {
+    "field": "on_board_date",
+    "page": 1,
+    "text": "November 08, 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     503
+    ]
+   },
+   {
+    "field": "on_board_notation",
+    "page": 1,
+    "text": "SHIPPED ON BOARD",
+    "confidence": 1.0,
+    "box_2d": [
+     776,
+     665,
+     807,
+     895
+    ]
+   }
+  ]
+ }
+}

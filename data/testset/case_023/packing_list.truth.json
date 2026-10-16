@@ -1,0 +1,85 @@
+{
+ "doc_type": "packing_list",
+ "data": {
+  "packages_count": "2,040 bags",
+  "quantity": "51",
+  "quantity_unit": "MT",
+  "gross_weight_kg": "53,040.0 kg",
+  "net_weight_kg": "51,000.0 kg",
+  "goods_description": "Cashew kernels, as per invoice INV-49372",
+  "evidence": [
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cashew kernels, as per invoice INV-49372",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     664
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "2,040 bags",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     441
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "51",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     380
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     385
+    ]
+   },
+   {
+    "field": "net_weight_kg",
+    "page": 1,
+    "text": "51,000.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     446
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "53,040.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     446
+    ]
+   }
+  ]
+ }
+}

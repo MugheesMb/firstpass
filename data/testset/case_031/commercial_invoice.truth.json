@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-77200",
+  "invoice_date": "29/10/2026",
+  "issuer": "Indus Home Textiles (Pvt) Ltd",
+  "made_out_to": "Hanse Sport GmbH",
+  "lc_number": "HAN/LC/26/9737",
+  "currency": "USD",
+  "total_amount": "USD 46,880.00",
+  "quantity": "14,650",
+  "quantity_unit": "pcs",
+  "goods_description": "100% cotton bath towels, 500 GSM, size 70 x 140 cm",
+  "incoterm": "CIF Hamburg",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-77200",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "29/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Indus Home Textiles (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     573
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Hanse Sport GmbH",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     502
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "HAN/LC/26/9737",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     483
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CIF Hamburg",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     458
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "100% cotton bath towels, 500 GSM, size 70 x 140 cm",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     741
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "14,650",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     411
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     387
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "USD 46,880.00",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     489
+    ]
+   }
+  ]
+ }
+}

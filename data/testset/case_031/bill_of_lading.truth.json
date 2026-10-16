@@ -1,0 +1,190 @@
+{
+ "doc_type": "bill_of_lading",
+ "data": {
+  "bl_number": "BL942826",
+  "shipper": "Indus Home Textiles (Pvt) Ltd",
+  "consignee": "To order of Hanseatic Trade Bank AG",
+  "notify_party": "Hanse Sport GmbH",
+  "vessel": "MV Bay of Bengal Trader",
+  "port_of_loading": "Karachi, Pakistan",
+  "port_of_discharge": "Hamburg, Germany",
+  "issue_date": "31/10/2026",
+  "on_board_date": "31/10/2026",
+  "on_board_notation": true,
+  "clauses": [],
+  "packages_count": "293 cartons",
+  "gross_weight_kg": "9,446.3 kg",
+  "goods_description": "Cotton bath towels",
+  "freight": "Freight prepaid",
+  "evidence": [
+   {
+    "field": "bl_number",
+    "page": 1,
+    "text": "BL942826",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     435
+    ]
+   },
+   {
+    "field": "shipper",
+    "page": 1,
+    "text": "Indus Home Textiles (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     573
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "To order of Hanseatic Trade Bank AG",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     630
+    ]
+   },
+   {
+    "field": "notify_party",
+    "page": 1,
+    "text": "Hanse Sport GmbH",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     502
+    ]
+   },
+   {
+    "field": "vessel",
+    "page": 1,
+    "text": "MV Bay of Bengal Trader",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     542
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     487
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Hamburg, Germany",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     502
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Cotton bath towels",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     495
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "293 cartons",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     446
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "9,446.3 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     437
+    ]
+   },
+   {
+    "field": "freight",
+    "page": 1,
+    "text": "Freight prepaid",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     470
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "31/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     442
+    ]
+   },
+   {
+    "field": "on_board_date",
+    "page": 1,
+    "text": "31/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     442
+    ]
+   },
+   {
+    "field": "on_board_notation",
+    "page": 1,
+    "text": "SHIPPED ON BOARD",
+    "confidence": 1.0,
+    "box_2d": [
+     776,
+     665,
+     807,
+     895
+    ]
+   }
+  ]
+ }
+}

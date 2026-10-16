@@ -1,0 +1,318 @@
+{
+ "doc_type": "letter_of_credit",
+ "data": {
+  "lc_number": "ROT/LC/26/7657",
+  "issue_date": "260923",
+  "expiry_date": "261217",
+  "expiry_place": "Karachi, Pakistan",
+  "applicant": "Nordhaven Retail B.V.",
+  "applicant_country": "Netherlands",
+  "beneficiary": "Sialkot Pro Sports (Pvt) Ltd",
+  "beneficiary_country": "Pakistan",
+  "issuing_bank": "Rotterdam Mercantile Bank N.V.",
+  "currency": "USD",
+  "amount": "USD 73,312.50",
+  "amount_tolerance_pct": null,
+  "latest_shipment_date": "261120",
+  "presentation_days": "21 days after date of shipment",
+  "port_of_loading": "Karachi, Pakistan",
+  "port_of_discharge": "Rotterdam, Netherlands",
+  "partial_shipments": "allowed",
+  "transhipment": "allowed",
+  "incoterm": "CIF Rotterdam",
+  "goods_description": "Hand-stitched PU leather footballs, size 5, FIFA Quality",
+  "quantity": "8,625",
+  "quantity_unit": "pcs",
+  "country_of_origin": "Pakistan",
+  "bl_consignee_required": "To order of Rotterdam Mercantile Bank N.V.",
+  "documents_required": [
+   "Signed commercial invoice in 3 originals",
+   "Full set of clean on board ocean bills of lading made out to order of Rotterdam Mercantile Bank N.V., marked freight prepaid, notify applicant",
+   "Packing list in 2 copies",
+   "Certificate of origin issued by the Chamber of Commerce in Pakistan",
+   "Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)"
+  ],
+  "additional_conditions": [
+   "All documents must show this credit number.",
+   "Third party documents acceptable except commercial invoice."
+  ],
+  "evidence": [
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "ROT/LC/26/7657",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     483
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "260923",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     416
+    ]
+   },
+   {
+    "field": "expiry_date",
+    "page": 1,
+    "text": "261217",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     416
+    ]
+   },
+   {
+    "field": "expiry_place",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     487
+    ]
+   },
+   {
+    "field": "applicant",
+    "page": 1,
+    "text": "Nordhaven Retail B.V.",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     520
+    ]
+   },
+   {
+    "field": "applicant_country",
+    "page": 1,
+    "text": "Netherlands",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     448
+    ]
+   },
+   {
+    "field": "beneficiary",
+    "page": 1,
+    "text": "Sialkot Pro Sports (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     555
+    ]
+   },
+   {
+    "field": "beneficiary_country",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     424
+    ]
+   },
+   {
+    "field": "amount",
+    "page": 1,
+    "text": "USD 73,312.50",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     471
+    ]
+   },
+   {
+    "field": "partial_shipments",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     416
+    ]
+   },
+   {
+    "field": "transhipment",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     416
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     487
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Rotterdam, Netherlands",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     532
+    ]
+   },
+   {
+    "field": "latest_shipment_date",
+    "page": 1,
+    "text": "261120",
+    "confidence": 1.0,
+    "box_2d": [
+     388,
+     359,
+     401,
+     416
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Hand-stitched PU leather footballs, size 5, FIFA Quality",
+    "confidence": 1.0,
+    "box_2d": [
+     408,
+     359,
+     421,
+     753
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "8,625",
+    "confidence": 1.0,
+    "box_2d": [
+     428,
+     359,
+     441,
+     402
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     448,
+     359,
+     461,
+     387
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CIF Rotterdam",
+    "confidence": 1.0,
+    "box_2d": [
+     469,
+     359,
+     482,
+     467
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     489,
+     359,
+     502,
+     424
+    ]
+   },
+   {
+    "field": "documents_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Rotterdam Mercantile Bank N.V., marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Pakistan | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     862
+    ]
+   },
+   {
+    "field": "additional_conditions",
+    "page": 1,
+    "text": "All documents must show this credit number. | Third party documents acceptable except commercial invoice.",
+    "confidence": 1.0,
+    "box_2d": [
+     635,
+     115,
+     662,
+     549
+    ]
+   },
+   {
+    "field": "presentation_days",
+    "page": 1,
+    "text": "21 days after date of shipment",
+    "confidence": 1.0,
+    "box_2d": [
+     671,
+     359,
+     683,
+     577
+    ]
+   },
+   {
+    "field": "bl_consignee_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Rotterdam Mercantile Bank N.V., marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Pakistan | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     862
+    ]
+   }
+  ]
+ }
+}

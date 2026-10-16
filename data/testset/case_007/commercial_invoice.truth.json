@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-93123",
+  "invoice_date": "November 11, 2026",
+  "issuer": "Saigon Nut Traders JSC",
+  "made_out_to": "Maple Leaf Outfitters Inc",
+  "lc_number": "PAC/LC/26/3486",
+  "currency": "USD",
+  "total_amount": "USD 352,800.00",
+  "quantity": "49",
+  "quantity_unit": "MT",
+  "goods_description": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+  "incoterm": "CFR Vancouver",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-93123",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "November 11, 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     503
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     535
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Maple Leaf Outfitters Inc",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     536
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "PAC/LC/26/3486",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     482
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Vancouver",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     476
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     789
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "49",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     380
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     385
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "USD 352,800.00",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     499
+    ]
+   }
+  ]
+ }
+}

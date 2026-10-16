@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-58487",
+  "invoice_date": "07/11/2026",
+  "issuer": "Meghna Knit Composite Ltd",
+  "made_out_to": "Nordhaven Retail B.V.",
+  "lc_number": "ROT/LC/26/4761",
+  "currency": "USD",
+  "total_amount": "USD 93,480.00",
+  "quantity": "22,800",
+  "quantity_unit": "pcs",
+  "goods_description": "Men's 100% cotton knitted polo shirts, assorted colours",
+  "incoterm": "CFR Rotterdam",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-58487",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "07/11/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Meghna Knit Composite Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     559
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Nordhaven Retail B.V.",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     520
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "ROT/LC/26/4761",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     483
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Rotterdam",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     474
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Men's 100% cotton knitted polo shirts, assorted colours",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     752
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "22,800",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     411
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     387
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "USD 93,480.00",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     489
+    ]
+   }
+  ]
+ }
+}

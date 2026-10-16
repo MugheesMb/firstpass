@@ -1,0 +1,329 @@
+{
+ "doc_type": "letter_of_credit",
+ "data": {
+  "lc_number": "GUL/LC/26/7221",
+  "issue_date": "260903",
+  "expiry_date": "261130",
+  "expiry_place": "Dubai, UAE",
+  "applicant": "Gulf Pantry Trading LLC",
+  "applicant_country": "UAE",
+  "beneficiary": "Saigon Nut Traders JSC",
+  "beneficiary_country": "Vietnam",
+  "issuing_bank": "Gulf Commercial Bank PJSC",
+  "currency": "USD",
+  "amount": "USD 360,000.00",
+  "amount_tolerance_pct": "10/10",
+  "latest_shipment_date": "261031",
+  "presentation_days": "21 days after date of shipment",
+  "port_of_loading": "Ho Chi Minh City, Vietnam",
+  "port_of_discharge": "Jebel Ali, UAE",
+  "partial_shipments": "prohibited",
+  "transhipment": "allowed",
+  "incoterm": "CFR Jebel Ali",
+  "goods_description": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+  "quantity": "50",
+  "quantity_unit": "MT",
+  "country_of_origin": "Vietnam",
+  "bl_consignee_required": "To order of Gulf Commercial Bank PJSC",
+  "documents_required": [
+   "Signed commercial invoice in 3 originals",
+   "Full set of clean on board ocean bills of lading made out to order of Gulf Commercial Bank PJSC, marked freight prepaid, notify applicant",
+   "Packing list in 2 copies",
+   "Certificate of origin issued by the Chamber of Commerce in Vietnam"
+  ],
+  "additional_conditions": [
+   "All documents must show this credit number.",
+   "Third party documents acceptable except commercial invoice."
+  ],
+  "evidence": [
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "GUL/LC/26/7221",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     482
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "260903",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     416
+    ]
+   },
+   {
+    "field": "expiry_date",
+    "page": 1,
+    "text": "261130",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     416
+    ]
+   },
+   {
+    "field": "expiry_place",
+    "page": 1,
+    "text": "Dubai, UAE",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     446
+    ]
+   },
+   {
+    "field": "applicant",
+    "page": 1,
+    "text": "Gulf Pantry Trading LLC",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     534
+    ]
+   },
+   {
+    "field": "applicant_country",
+    "page": 1,
+    "text": "UAE",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     395
+    ]
+   },
+   {
+    "field": "beneficiary",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     535
+    ]
+   },
+   {
+    "field": "beneficiary_country",
+    "page": 1,
+    "text": "Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     421
+    ]
+   },
+   {
+    "field": "amount",
+    "page": 1,
+    "text": "USD 360,000.00",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     480
+    ]
+   },
+   {
+    "field": "amount_tolerance_pct",
+    "page": 1,
+    "text": "10/10",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     402
+    ]
+   },
+   {
+    "field": "partial_shipments",
+    "page": 1,
+    "text": "prohibited",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     432
+    ]
+   },
+   {
+    "field": "transhipment",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     416
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Ho Chi Minh City, Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     549
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Jebel Ali, UAE",
+    "confidence": 1.0,
+    "box_2d": [
+     388,
+     359,
+     401,
+     464
+    ]
+   },
+   {
+    "field": "latest_shipment_date",
+    "page": 1,
+    "text": "261031",
+    "confidence": 1.0,
+    "box_2d": [
+     408,
+     359,
+     421,
+     416
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+    "confidence": 1.0,
+    "box_2d": [
+     428,
+     359,
+     441,
+     789
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "50",
+    "confidence": 1.0,
+    "box_2d": [
+     448,
+     359,
+     461,
+     380
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     469,
+     359,
+     482,
+     385
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Jebel Ali",
+    "confidence": 1.0,
+    "box_2d": [
+     489,
+     359,
+     502,
+     460
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     509,
+     359,
+     522,
+     421
+    ]
+   },
+   {
+    "field": "documents_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Gulf Commercial Bank PJSC, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     546,
+     115,
+     616,
+     886
+    ]
+   },
+   {
+    "field": "additional_conditions",
+    "page": 1,
+    "text": "All documents must show this credit number. | Third party documents acceptable except commercial invoice.",
+    "confidence": 1.0,
+    "box_2d": [
+     641,
+     115,
+     668,
+     549
+    ]
+   },
+   {
+    "field": "presentation_days",
+    "page": 1,
+    "text": "21 days after date of shipment",
+    "confidence": 1.0,
+    "box_2d": [
+     676,
+     359,
+     689,
+     577
+    ]
+   },
+   {
+    "field": "bl_consignee_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Gulf Commercial Bank PJSC, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     546,
+     115,
+     616,
+     886
+    ]
+   }
+  ]
+ }
+}

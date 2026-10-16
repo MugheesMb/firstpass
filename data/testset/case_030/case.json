@@ -1,0 +1,55 @@
+{
+ "case_id": "case_030",
+ "company_name": "Lahore Grain Exports Ltd",
+ "goods_ready_date": "2026-10-04",
+ "presentation_date": "2026-10-27",
+ "goods": "rice",
+ "incoterm": "CIF Vancouver",
+ "currency": "USD",
+ "planted_document_errors": [
+  "amount_over",
+  "insurance_late"
+ ],
+ "planted_lc_errors": [
+  "hard_doc"
+ ],
+ "expected_document_rules": [
+  "R05",
+  "R14"
+ ],
+ "expected_lc_rules": [
+  "A08"
+ ],
+ "files": [
+  {
+   "file": "lc.pdf",
+   "doc_type": "letter_of_credit",
+   "truth": "lc.truth.json"
+  },
+  {
+   "file": "commercial_invoice.pdf",
+   "doc_type": "commercial_invoice",
+   "truth": "commercial_invoice.truth.json"
+  },
+  {
+   "file": "bill_of_lading.pdf",
+   "doc_type": "bill_of_lading",
+   "truth": "bill_of_lading.truth.json"
+  },
+  {
+   "file": "packing_list.pdf",
+   "doc_type": "packing_list",
+   "truth": "packing_list.truth.json"
+  },
+  {
+   "file": "certificate_of_origin.pdf",
+   "doc_type": "certificate_of_origin",
+   "truth": "certificate_of_origin.truth.json"
+  },
+  {
+   "file": "insurance_certificate.pdf",
+   "doc_type": "insurance_certificate",
+   "truth": "insurance_certificate.truth.json"
+  }
+ ]
+}

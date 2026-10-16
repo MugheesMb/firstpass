@@ -1,0 +1,330 @@
+{
+ "doc_type": "letter_of_credit",
+ "data": {
+  "lc_number": "ROT/LC/26/8850",
+  "issue_date": "260905",
+  "expiry_date": "261122",
+  "expiry_place": "Ho Chi Minh City, Vietnam",
+  "applicant": "Nordhaven Retail B.V.",
+  "applicant_country": "Netherlands",
+  "beneficiary": "Saigon Nut Traders JSC",
+  "beneficiary_country": "Vietnam",
+  "issuing_bank": "Rotterdam Mercantile Bank N.V.",
+  "currency": "USD",
+  "amount": "USD 367,200.00",
+  "amount_tolerance_pct": "10/10",
+  "latest_shipment_date": "261024",
+  "presentation_days": "21 days after date of shipment",
+  "port_of_loading": "Ho Chi Minh City, Vietnam",
+  "port_of_discharge": "Rotterdam, Netherlands",
+  "partial_shipments": "prohibited",
+  "transhipment": "allowed",
+  "incoterm": "CFR Rotterdam",
+  "goods_description": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+  "quantity": "51",
+  "quantity_unit": "MT",
+  "country_of_origin": "Vietnam",
+  "bl_consignee_required": "To order of Rotterdam Mercantile Bank N.V.",
+  "documents_required": [
+   "Signed commercial invoice in 3 originals",
+   "Full set of clean on board ocean bills of lading made out to order of Rotterdam Mercantile Bank N.V., marked freight prepaid, notify applicant",
+   "Packing list in 2 copies",
+   "Certificate of origin issued by the Chamber of Commerce in Vietnam",
+   "Pre-shipment inspection certificate issued by Bureau Veritas Group"
+  ],
+  "additional_conditions": [
+   "All documents must show this credit number.",
+   "Third party documents acceptable except commercial invoice."
+  ],
+  "evidence": [
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "ROT/LC/26/8850",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     483
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "260905",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     416
+    ]
+   },
+   {
+    "field": "expiry_date",
+    "page": 1,
+    "text": "261122",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     416
+    ]
+   },
+   {
+    "field": "expiry_place",
+    "page": 1,
+    "text": "Ho Chi Minh City, Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     549
+    ]
+   },
+   {
+    "field": "applicant",
+    "page": 1,
+    "text": "Nordhaven Retail B.V.",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     520
+    ]
+   },
+   {
+    "field": "applicant_country",
+    "page": 1,
+    "text": "Netherlands",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     448
+    ]
+   },
+   {
+    "field": "beneficiary",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     535
+    ]
+   },
+   {
+    "field": "beneficiary_country",
+    "page": 1,
+    "text": "Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     421
+    ]
+   },
+   {
+    "field": "amount",
+    "page": 1,
+    "text": "USD 367,200.00",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     480
+    ]
+   },
+   {
+    "field": "amount_tolerance_pct",
+    "page": 1,
+    "text": "10/10",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     402
+    ]
+   },
+   {
+    "field": "partial_shipments",
+    "page": 1,
+    "text": "prohibited",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     432
+    ]
+   },
+   {
+    "field": "transhipment",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     416
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Ho Chi Minh City, Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     549
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Rotterdam, Netherlands",
+    "confidence": 1.0,
+    "box_2d": [
+     388,
+     359,
+     401,
+     532
+    ]
+   },
+   {
+    "field": "latest_shipment_date",
+    "page": 1,
+    "text": "261024",
+    "confidence": 1.0,
+    "box_2d": [
+     408,
+     359,
+     421,
+     416
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+    "confidence": 1.0,
+    "box_2d": [
+     428,
+     359,
+     441,
+     789
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "51",
+    "confidence": 1.0,
+    "box_2d": [
+     448,
+     359,
+     461,
+     380
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     469,
+     359,
+     482,
+     385
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Rotterdam",
+    "confidence": 1.0,
+    "box_2d": [
+     489,
+     359,
+     502,
+     474
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Vietnam",
+    "confidence": 1.0,
+    "box_2d": [
+     509,
+     359,
+     522,
+     421
+    ]
+   },
+   {
+    "field": "documents_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Rotterdam Mercantile Bank N.V., marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Vietnam | Pre-shipment inspection certificate issued by Bureau Veritas Group",
+    "confidence": 1.0,
+    "box_2d": [
+     546,
+     115,
+     630,
+     862
+    ]
+   },
+   {
+    "field": "additional_conditions",
+    "page": 1,
+    "text": "All documents must show this credit number. | Third party documents acceptable except commercial invoice.",
+    "confidence": 1.0,
+    "box_2d": [
+     656,
+     115,
+     682,
+     549
+    ]
+   },
+   {
+    "field": "presentation_days",
+    "page": 1,
+    "text": "21 days after date of shipment",
+    "confidence": 1.0,
+    "box_2d": [
+     691,
+     359,
+     704,
+     577
+    ]
+   },
+   {
+    "field": "bl_consignee_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Rotterdam Mercantile Bank N.V., marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Vietnam | Pre-shipment inspection certificate issued by Bureau Veritas Group",
+    "confidence": 1.0,
+    "box_2d": [
+     546,
+     115,
+     630,
+     862
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "case_id": "demo_sialkot_footballs",
+ "company_name": "Sialkot Pro Sports (Pvt) Ltd",
+ "goods_ready_date": "2026-10-28",
+ "presentation_date": "2026-11-17",
+ "goods": "footballs",
+ "incoterm": "CIF Singapore",
+ "currency": "USD",
+ "planted_document_errors": [
+  "insurance_late",
+  "packages_mismatch",
+  "port_pol"
+ ],
+ "planted_lc_errors": [
+  "expiry_abroad"
+ ],
+ "expected_document_rules": [
+  "R10",
+  "R11",
+  "R14"
+ ],
+ "expected_lc_rules": [
+  "A04"
+ ],
+ "files": [
+  {
+   "file": "lc.pdf",
+   "doc_type": "letter_of_credit",
+   "truth": "lc.truth.json"
+  },
+  {
+   "file": "commercial_invoice.pdf",
+   "doc_type": "commercial_invoice",
+   "truth": "commercial_invoice.truth.json"
+  },
+  {
+   "file": "bill_of_lading.pdf",
+   "doc_type": "bill_of_lading",
+   "truth": "bill_of_lading.truth.json"
+  },
+  {
+   "file": "packing_list.pdf",
+   "doc_type": "packing_list",
+   "truth": "packing_list.truth.json"
+  },
+  {
+   "file": "certificate_of_origin.pdf",
+   "doc_type": "certificate_of_origin",
+   "truth": "certificate_of_origin.truth.json"
+  },
+  {
+   "file": "insurance_certificate.pdf",
+   "doc_type": "insurance_certificate",
+   "truth": "insurance_certificate.truth.json"
+  }
+ ]
+}

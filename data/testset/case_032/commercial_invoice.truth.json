@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-42849",
+  "invoice_date": "23/10/2026",
+  "issuer": "Saigon Nut Traders JSC",
+  "made_out_to": "Gulf Pantry Trading LLC",
+  "lc_number": "GUL/LC/26/7221",
+  "currency": "USD",
+  "total_amount": "USD 360,000.00",
+  "quantity": "50",
+  "quantity_unit": "MT",
+  "goods_description": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+  "incoterm": "CFR Jebel Ali",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-42849",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "23/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     535
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Gulf Pantry Trading LLC",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     534
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "GUL/LC/26/7221",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     482
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Jebel Ali",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     460
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     789
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "50",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     380
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     385
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "USD 360,000.00",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     499
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-73247",
+  "invoice_date": "05/11/2026",
+  "issuer": "Sialkot Pro Sports (Pvt) Ltd",
+  "made_out_to": "Lion City Provisions Pte Ltd",
+  "lc_number": "STR/LC/26/1177",
+  "currency": "USD",
+  "total_amount": "USD 44,200.00",
+  "quantity": "5,200",
+  "quantity_unit": "pcs",
+  "goods_description": "Hand-stitched PU leather footballs, size 5, FIFA Quality",
+  "incoterm": "CIF Singapore",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-73247",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "05/11/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Sialkot Pro Sports (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     555
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Lion City Provisions Pte Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     557
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "STR/LC/26/1177",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     481
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CIF Singapore",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     465
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Hand-stitched PU leather footballs, size 5, FIFA Quality",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     753
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "5,200",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     402
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     387
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "USD 44,200.00",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     489
+    ]
+   }
+  ]
+ }
+}

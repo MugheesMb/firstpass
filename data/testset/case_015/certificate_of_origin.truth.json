@@ -1,0 +1,85 @@
+{
+ "doc_type": "certificate_of_origin",
+ "data": {
+  "exporter": "Sialkot Pro Sports (Pvt) Ltd",
+  "consignee": "Gulf Pantry Trading LLC",
+  "country_of_origin": "China",
+  "goods_description": "Footballs",
+  "issue_date": "05 Nov 2026",
+  "issuer": "Sialkot Chamber of Commerce & Industry",
+  "evidence": [
+   {
+    "field": "exporter",
+    "page": 1,
+    "text": "Sialkot Pro Sports (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     555
+    ]
+   },
+   {
+    "field": "consignee",
+    "page": 1,
+    "text": "Gulf Pantry Trading LLC",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     534
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Footballs",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     427
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "China",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     404
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "05 Nov 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     453
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Sialkot Chamber of Commerce & Industry",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     657
+    ]
+   }
+  ]
+ }
+}

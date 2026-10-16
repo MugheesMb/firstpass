@@ -1,0 +1,52 @@
+{
+ "case_id": "case_015",
+ "company_name": "Sialkot Pro Sports (Pvt) Ltd",
+ "goods_ready_date": "2026-10-24",
+ "presentation_date": "2026-11-11",
+ "goods": "footballs",
+ "incoterm": "CFR Jebel Ali",
+ "currency": "USD",
+ "planted_document_errors": [
+  "amount_over",
+  "origin",
+  "port_pol"
+ ],
+ "planted_lc_errors": [
+  "short_presentation"
+ ],
+ "expected_document_rules": [
+  "R05",
+  "R11",
+  "R20"
+ ],
+ "expected_lc_rules": [
+  "A03"
+ ],
+ "files": [
+  {
+   "file": "lc.pdf",
+   "doc_type": "letter_of_credit",
+   "truth": "lc.truth.json"
+  },
+  {
+   "file": "commercial_invoice.pdf",
+   "doc_type": "commercial_invoice",
+   "truth": "commercial_invoice.truth.json"
+  },
+  {
+   "file": "bill_of_lading.pdf",
+   "doc_type": "bill_of_lading",
+   "truth": "bill_of_lading.truth.json"
+  },
+  {
+   "file": "packing_list.pdf",
+   "doc_type": "packing_list",
+   "truth": "packing_list.truth.json"
+  },
+  {
+   "file": "certificate_of_origin.pdf",
+   "doc_type": "certificate_of_origin",
+   "truth": "certificate_of_origin.truth.json"
+  }
+ ]
+}

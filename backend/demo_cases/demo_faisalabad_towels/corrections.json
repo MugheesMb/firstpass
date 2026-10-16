@@ -1,0 +1,8 @@
+[
+ {
+  "doc_type": "commercial_invoice",
+  "file": "corrected/commercial_invoice.pdf",
+  "truth": "corrected/commercial_invoice.truth.json",
+  "fixes": "Invoice reissued for the LC amount, with the LC goods description"
+ }
+]

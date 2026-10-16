@@ -1,0 +1,53 @@
+{
+ "case_id": "case_035",
+ "company_name": "Indus Home Textiles (Pvt) Ltd",
+ "goods_ready_date": "2026-10-25",
+ "presentation_date": "2026-11-15",
+ "goods": "towels",
+ "incoterm": "CIF Hamburg",
+ "currency": "USD",
+ "planted_document_errors": [
+  "consignee",
+  "insurance_under",
+  "lc_number"
+ ],
+ "planted_lc_errors": [],
+ "expected_document_rules": [
+  "R15",
+  "R21",
+  "R24"
+ ],
+ "expected_lc_rules": [],
+ "files": [
+  {
+   "file": "lc.pdf",
+   "doc_type": "letter_of_credit",
+   "truth": "lc.truth.json"
+  },
+  {
+   "file": "commercial_invoice.pdf",
+   "doc_type": "commercial_invoice",
+   "truth": "commercial_invoice.truth.json"
+  },
+  {
+   "file": "bill_of_lading.pdf",
+   "doc_type": "bill_of_lading",
+   "truth": "bill_of_lading.truth.json"
+  },
+  {
+   "file": "packing_list.pdf",
+   "doc_type": "packing_list",
+   "truth": "packing_list.truth.json"
+  },
+  {
+   "file": "certificate_of_origin.pdf",
+   "doc_type": "certificate_of_origin",
+   "truth": "certificate_of_origin.truth.json"
+  },
+  {
+   "file": "insurance_certificate.pdf",
+   "doc_type": "insurance_certificate",
+   "truth": "insurance_certificate.truth.json"
+  }
+ ]
+}

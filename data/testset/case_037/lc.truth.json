@@ -1,0 +1,318 @@
+{
+ "doc_type": "letter_of_credit",
+ "data": {
+  "lc_number": "GUL/LC/26/8036",
+  "issue_date": "260917",
+  "expiry_date": "261129",
+  "expiry_place": "Karachi, Pakistan",
+  "applicant": "Gulf Pantry Trading LLC",
+  "applicant_country": "UAE",
+  "beneficiary": "Kasur Leather Works (Pvt) Ltd",
+  "beneficiary_country": "Pakistan",
+  "issuing_bank": "Gulf Commercial Bank PJSC",
+  "currency": "USD",
+  "amount": "USD 101,232.00",
+  "amount_tolerance_pct": null,
+  "latest_shipment_date": "261104",
+  "presentation_days": "21 days after date of shipment",
+  "port_of_loading": "Karachi, Pakistan",
+  "port_of_discharge": "Jebel Ali, UAE",
+  "partial_shipments": "prohibited",
+  "transhipment": "allowed",
+  "incoterm": "CIF Jebel Ali",
+  "goods_description": "Leather safety gloves, cow split leather, size L",
+  "quantity": "54,720",
+  "quantity_unit": "pairs",
+  "country_of_origin": "Pakistan",
+  "bl_consignee_required": "To order of Gulf Commercial Bank PJSC",
+  "documents_required": [
+   "Signed commercial invoice in 3 originals",
+   "Full set of clean on board ocean bills of lading made out to order of Gulf Commercial Bank PJSC, marked freight prepaid, notify applicant",
+   "Packing list in 2 copies",
+   "Certificate of origin issued by the Chamber of Commerce in Pakistan",
+   "Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)"
+  ],
+  "additional_conditions": [
+   "All documents must show this credit number.",
+   "Third party documents acceptable except commercial invoice."
+  ],
+  "evidence": [
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "GUL/LC/26/8036",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     482
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "260917",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     416
+    ]
+   },
+   {
+    "field": "expiry_date",
+    "page": 1,
+    "text": "261129",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     416
+    ]
+   },
+   {
+    "field": "expiry_place",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     487
+    ]
+   },
+   {
+    "field": "applicant",
+    "page": 1,
+    "text": "Gulf Pantry Trading LLC",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     534
+    ]
+   },
+   {
+    "field": "applicant_country",
+    "page": 1,
+    "text": "UAE",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     395
+    ]
+   },
+   {
+    "field": "beneficiary",
+    "page": 1,
+    "text": "Kasur Leather Works (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     577
+    ]
+   },
+   {
+    "field": "beneficiary_country",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     424
+    ]
+   },
+   {
+    "field": "amount",
+    "page": 1,
+    "text": "USD 101,232.00",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     480
+    ]
+   },
+   {
+    "field": "partial_shipments",
+    "page": 1,
+    "text": "prohibited",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     432
+    ]
+   },
+   {
+    "field": "transhipment",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     416
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     487
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Jebel Ali, UAE",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     464
+    ]
+   },
+   {
+    "field": "latest_shipment_date",
+    "page": 1,
+    "text": "261104",
+    "confidence": 1.0,
+    "box_2d": [
+     388,
+     359,
+     401,
+     416
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Leather safety gloves, cow split leather, size L",
+    "confidence": 1.0,
+    "box_2d": [
+     408,
+     359,
+     421,
+     688
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "54,720",
+    "confidence": 1.0,
+    "box_2d": [
+     428,
+     359,
+     441,
+     411
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pairs",
+    "confidence": 1.0,
+    "box_2d": [
+     448,
+     359,
+     461,
+     397
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CIF Jebel Ali",
+    "confidence": 1.0,
+    "box_2d": [
+     469,
+     359,
+     482,
+     453
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     489,
+     359,
+     502,
+     424
+    ]
+   },
+   {
+    "field": "documents_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Gulf Commercial Bank PJSC, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Pakistan | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     886
+    ]
+   },
+   {
+    "field": "additional_conditions",
+    "page": 1,
+    "text": "All documents must show this credit number. | Third party documents acceptable except commercial invoice.",
+    "confidence": 1.0,
+    "box_2d": [
+     635,
+     115,
+     662,
+     549
+    ]
+   },
+   {
+    "field": "presentation_days",
+    "page": 1,
+    "text": "21 days after date of shipment",
+    "confidence": 1.0,
+    "box_2d": [
+     671,
+     359,
+     683,
+     577
+    ]
+   },
+   {
+    "field": "bl_consignee_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Gulf Commercial Bank PJSC, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Pakistan | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     886
+    ]
+   }
+  ]
+ }
+}

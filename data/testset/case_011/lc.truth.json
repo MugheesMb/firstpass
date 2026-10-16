@@ -1,0 +1,318 @@
+{
+ "doc_type": "letter_of_credit",
+ "data": {
+  "lc_number": "STR/LC/26/1233",
+  "issue_date": "260907",
+  "expiry_date": "261130",
+  "expiry_place": "Karachi, Pakistan",
+  "applicant": "Lion City Provisions Pte Ltd",
+  "applicant_country": "Singapore",
+  "beneficiary": "Lahore Grain Exports Ltd",
+  "beneficiary_country": "Pakistan",
+  "issuing_bank": "Straits Merchant Bank Ltd",
+  "currency": "USD",
+  "amount": "USD 119,600.00",
+  "amount_tolerance_pct": null,
+  "latest_shipment_date": "261102",
+  "presentation_days": "21 days after date of shipment",
+  "port_of_loading": "Karachi, Pakistan",
+  "port_of_discharge": "Singapore",
+  "partial_shipments": "allowed",
+  "transhipment": "allowed",
+  "incoterm": "CIF Singapore",
+  "goods_description": "Pakistani basmati rice 1121 steam, crop 2026, packed in 25 kg PP bags",
+  "quantity": "104",
+  "quantity_unit": "MT",
+  "country_of_origin": "Pakistan",
+  "bl_consignee_required": "To order of Straits Merchant Bank Ltd",
+  "documents_required": [
+   "Signed commercial invoice in 3 originals",
+   "Full set of clean on board ocean bills of lading made out to order of Straits Merchant Bank Ltd, marked freight prepaid, notify applicant",
+   "Packing list in 2 copies",
+   "Certificate of origin issued by the Chamber of Commerce in Pakistan",
+   "Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)"
+  ],
+  "additional_conditions": [
+   "All documents must show this credit number.",
+   "Third party documents acceptable except commercial invoice."
+  ],
+  "evidence": [
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "STR/LC/26/1233",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     481
+    ]
+   },
+   {
+    "field": "issue_date",
+    "page": 1,
+    "text": "260907",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     416
+    ]
+   },
+   {
+    "field": "expiry_date",
+    "page": 1,
+    "text": "261130",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     416
+    ]
+   },
+   {
+    "field": "expiry_place",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     487
+    ]
+   },
+   {
+    "field": "applicant",
+    "page": 1,
+    "text": "Lion City Provisions Pte Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     557
+    ]
+   },
+   {
+    "field": "applicant_country",
+    "page": 1,
+    "text": "Singapore",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     435
+    ]
+   },
+   {
+    "field": "beneficiary",
+    "page": 1,
+    "text": "Lahore Grain Exports Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     541
+    ]
+   },
+   {
+    "field": "beneficiary_country",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     424
+    ]
+   },
+   {
+    "field": "amount",
+    "page": 1,
+    "text": "USD 119,600.00",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     480
+    ]
+   },
+   {
+    "field": "partial_shipments",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     307,
+     359,
+     320,
+     416
+    ]
+   },
+   {
+    "field": "transhipment",
+    "page": 1,
+    "text": "allowed",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     416
+    ]
+   },
+   {
+    "field": "port_of_loading",
+    "page": 1,
+    "text": "Karachi, Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     347,
+     359,
+     360,
+     487
+    ]
+   },
+   {
+    "field": "port_of_discharge",
+    "page": 1,
+    "text": "Singapore",
+    "confidence": 1.0,
+    "box_2d": [
+     368,
+     359,
+     381,
+     435
+    ]
+   },
+   {
+    "field": "latest_shipment_date",
+    "page": 1,
+    "text": "261102",
+    "confidence": 1.0,
+    "box_2d": [
+     388,
+     359,
+     401,
+     416
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Pakistani basmati rice 1121 steam, crop 2026, packed in 25 kg PP bags",
+    "confidence": 1.0,
+    "box_2d": [
+     408,
+     359,
+     421,
+     871
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "104",
+    "confidence": 1.0,
+    "box_2d": [
+     428,
+     359,
+     441,
+     389
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     448,
+     359,
+     461,
+     385
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CIF Singapore",
+    "confidence": 1.0,
+    "box_2d": [
+     469,
+     359,
+     482,
+     465
+    ]
+   },
+   {
+    "field": "country_of_origin",
+    "page": 1,
+    "text": "Pakistan",
+    "confidence": 1.0,
+    "box_2d": [
+     489,
+     359,
+     502,
+     424
+    ]
+   },
+   {
+    "field": "documents_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Straits Merchant Bank Ltd, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Pakistan | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     866
+    ]
+   },
+   {
+    "field": "additional_conditions",
+    "page": 1,
+    "text": "All documents must show this credit number. | Third party documents acceptable except commercial invoice.",
+    "confidence": 1.0,
+    "box_2d": [
+     635,
+     115,
+     662,
+     549
+    ]
+   },
+   {
+    "field": "presentation_days",
+    "page": 1,
+    "text": "21 days after date of shipment",
+    "confidence": 1.0,
+    "box_2d": [
+     671,
+     359,
+     683,
+     577
+    ]
+   },
+   {
+    "field": "bl_consignee_required",
+    "page": 1,
+    "text": "Signed commercial invoice in 3 originals | Full set of clean on board ocean bills of lading made out to order of Straits Merchant Bank Ltd, marked freight prepaid, notify applicant | Packing list in 2 copies | Certificate of origin issued by the Chamber of Commerce in Pakistan | Insurance certificate covering 110% of CIF value, Institute Cargo Clauses (A)",
+    "confidence": 1.0,
+    "box_2d": [
+     526,
+     115,
+     610,
+     866
+    ]
+   }
+  ]
+ }
+}

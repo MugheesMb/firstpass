@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-20492",
+  "invoice_date": "10/10/2026",
+  "issuer": "Kasur Leather Works (Pvt) Ltd",
+  "made_out_to": "Lion City Provisions Pte Ltd",
+  "lc_number": "STR/LC/26/4498",
+  "currency": "USD",
+  "total_amount": "USD 85,248.00",
+  "quantity": "46,080",
+  "quantity_unit": "pairs",
+  "goods_description": "Leather safety gloves, cow split leather, size L",
+  "incoterm": "CFR Singapore",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-20492",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "10/10/2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     442
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Kasur Leather Works (Pvt) Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     577
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Lion City Provisions Pte Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     557
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "STR/LC/26/4498",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     481
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CFR Singapore",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     472
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Leather safety gloves, cow split leather, size L",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     688
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "46,080",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     411
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pairs",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     397
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "USD 85,248.00",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     489
+    ]
+   }
+  ]
+ }
+}

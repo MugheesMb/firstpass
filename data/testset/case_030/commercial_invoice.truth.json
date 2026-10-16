@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-73559",
+  "invoice_date": "15 Oct 2026",
+  "issuer": "Lahore Grain Exports Ltd",
+  "made_out_to": "Maple Leaf Outfitters Inc",
+  "lc_number": "PAC/LC/26/6896",
+  "currency": "USD",
+  "total_amount": "USD 170,686.45",
+  "quantity": "131",
+  "quantity_unit": "MT",
+  "goods_description": "Pakistani basmati rice 1121 steam, crop 2026, packed in 25 kg PP bags",
+  "incoterm": "CIF Vancouver",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-73559",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "15 Oct 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     449
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Lahore Grain Exports Ltd",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     541
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Maple Leaf Outfitters Inc",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     536
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "PAC/LC/26/6896",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     482
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "CIF Vancouver",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     469
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Pakistani basmati rice 1121 steam, crop 2026, packed in 25 kg PP bags",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     871
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "131",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     389
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     385
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "USD",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "USD 170,686.45",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     499
+    ]
+   }
+  ]
+ }
+}

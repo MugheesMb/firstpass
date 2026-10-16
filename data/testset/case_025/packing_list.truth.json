@@ -1,0 +1,85 @@
+{
+ "doc_type": "packing_list",
+ "data": {
+  "packages_count": "148 cartons",
+  "quantity": "3,700",
+  "quantity_unit": "pcs",
+  "gross_weight_kg": "1,731.6 kg",
+  "net_weight_kg": "1,665.0 kg",
+  "goods_description": "Footballs, as per invoice INV-66070",
+  "evidence": [
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Footballs, as per invoice INV-66070",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     615
+    ]
+   },
+   {
+    "field": "packages_count",
+    "page": 1,
+    "text": "148 cartons",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     446
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "3,700",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     402
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "pcs",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     387
+    ]
+   },
+   {
+    "field": "net_weight_kg",
+    "page": 1,
+    "text": "1,665.0 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     437
+    ]
+   },
+   {
+    "field": "gross_weight_kg",
+    "page": 1,
+    "text": "1,731.6 kg",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     437
+    ]
+   }
+  ]
+ }
+}

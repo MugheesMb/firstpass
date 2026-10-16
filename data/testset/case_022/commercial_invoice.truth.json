@@ -1,0 +1,150 @@
+{
+ "doc_type": "commercial_invoice",
+ "data": {
+  "invoice_number": "INV-81130",
+  "invoice_date": "20 Oct 2026",
+  "issuer": "Saigon Nut Traders JSC",
+  "made_out_to": "Nordhaven Retail B.V.",
+  "lc_number": "ROT/LC/26/1082",
+  "currency": "EUR",
+  "total_amount": "EUR 396,000.00",
+  "quantity": "55",
+  "quantity_unit": "MT",
+  "goods_description": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+  "incoterm": "FOB Ho Chi Minh City",
+  "evidence": [
+   {
+    "field": "invoice_number",
+    "page": 1,
+    "text": "INV-81130",
+    "confidence": 1.0,
+    "box_2d": [
+     125,
+     359,
+     138,
+     439
+    ]
+   },
+   {
+    "field": "invoice_date",
+    "page": 1,
+    "text": "20 Oct 2026",
+    "confidence": 1.0,
+    "box_2d": [
+     146,
+     359,
+     158,
+     449
+    ]
+   },
+   {
+    "field": "issuer",
+    "page": 1,
+    "text": "Saigon Nut Traders JSC",
+    "confidence": 1.0,
+    "box_2d": [
+     166,
+     359,
+     179,
+     535
+    ]
+   },
+   {
+    "field": "made_out_to",
+    "page": 1,
+    "text": "Nordhaven Retail B.V.",
+    "confidence": 1.0,
+    "box_2d": [
+     186,
+     359,
+     199,
+     520
+    ]
+   },
+   {
+    "field": "lc_number",
+    "page": 1,
+    "text": "ROT/LC/26/1082",
+    "confidence": 1.0,
+    "box_2d": [
+     206,
+     359,
+     219,
+     483
+    ]
+   },
+   {
+    "field": "incoterm",
+    "page": 1,
+    "text": "FOB Ho Chi Minh City",
+    "confidence": 1.0,
+    "box_2d": [
+     226,
+     359,
+     239,
+     519
+    ]
+   },
+   {
+    "field": "goods_description",
+    "page": 1,
+    "text": "Vietnamese cashew kernels WW320, packed in vacuum tins",
+    "confidence": 1.0,
+    "box_2d": [
+     246,
+     359,
+     259,
+     789
+    ]
+   },
+   {
+    "field": "quantity",
+    "page": 1,
+    "text": "55",
+    "confidence": 1.0,
+    "box_2d": [
+     267,
+     359,
+     280,
+     380
+    ]
+   },
+   {
+    "field": "quantity_unit",
+    "page": 1,
+    "text": "MT",
+    "confidence": 1.0,
+    "box_2d": [
+     287,
+     359,
+     300,
+     385
+    ]
+   },
+   {
+    "field": "currency",
+    "page": 1,
+    "text": "EUR",
+    "confidence": 1.0,
+    "box_2d": [
+     327,
+     359,
+     340,
+     396
+    ]
+   },
+   {
+    "field": "total_amount",
+    "page": 1,
+    "text": "EUR 396,000.00",
+    "confidence": 1.0,
+    "box_2d": [
+     346,
+     359,
+     361,
+     499
+    ]
+   }
+  ]
+ }
+}
